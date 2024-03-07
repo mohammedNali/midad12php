@@ -1,4 +1,4 @@
-# For PHP/MariaDB/Apache
+# PHP/MariaDB/Apache
 
 1. https://www.apachefriends.org/
 2. https://www.wampserver.com/en/
@@ -12,5 +12,5 @@
 2. https://code.visualstudio.com/
 3. https://www.sublimetext.com/
 
-# For Git Bash
+# Git Bash
 https://git-scm.com/download/win
