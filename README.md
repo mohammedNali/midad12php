@@ -7,7 +7,7 @@
 5. https://www.docker.com/
 6. https://windows.php.net/
 
-# Code EDitors 
+# Code Editors 
 1. https://www.jetbrains.com/phpstorm/
 2. https://code.visualstudio.com/
 3. https://www.sublimetext.com/
